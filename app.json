@@ -1,5 +1,5 @@
 {
-    "name": "YoneRobot",
+    "name": "Rei",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/Subhan-Maxx/Rei",
  "addons": [
     {
        "options": {
@@ -64,7 +64,7 @@
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "league_of_bots"
+       "value": "Hollywood_0980"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
