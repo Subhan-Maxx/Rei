@@ -7,16 +7,14 @@
     <a href="https://github.com/Subhan-Maxx/Rei"> <img src="https://img.shields.io/github/issues/Subhan-Maxx/Rei?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
-</p>
 
-# YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/Yone_Robot)
+
+# Rei
+Me On Telegram [✨Yone✨](https://t.me/MissRei_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/lx575/YoneRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/subhan-Maxx/Rei"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 CREDITS
 ```
