@@ -7,10 +7,11 @@
     <a href="https://github.com/Subhan-Maxx/Rei"> <img src="https://img.shields.io/github/issues/Subhan-Maxx/Rei?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
+### [Original Repo](https://github.com/noob-kittu/YoneRobot)
 
 
 # Rei
-Me On Telegram [✨Yone✨](https://t.me/MissRei_bot)
+Me On Telegram [✨Rei✨](https://t.me/MissRei_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
