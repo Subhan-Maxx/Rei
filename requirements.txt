@@ -25,4 +25,3 @@ pillow
 telegraph
 wikipedia
 opencv-python--headless
-.
